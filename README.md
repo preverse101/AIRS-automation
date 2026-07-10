@@ -16,7 +16,7 @@ Before running the script:
 2. Navigate to:
 
    ```
-   AI Runtime Security → Log Viewer → API
+   Log Viewer → Filter: Prisma AIRS --> AI Runtime Security API
    ```
 3. Export the scan logs as a **CSV** file.
 4. Ensure the CSV contains:
